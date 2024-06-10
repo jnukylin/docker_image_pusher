@@ -1,6 +1,11 @@
 idootop/mi-gpt:latest
 alpine
 python:alpine3.19
-kasmweb/nginx:1.25.3
+ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/open-webui/open-webui
+moelin/1panel
+syncthing/syncthing
+jellyfin/jellyfin
+containrrr/watchtower
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
