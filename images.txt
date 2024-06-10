@@ -8,4 +8,18 @@ syncthing/syncthing
 jellyfin/jellyfin
 containrrr/watchtower
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+binaryify/netease_cloud_music_api
+ollama/ollama
+justsong/one-api
+yidadaa/chatgpt-next-web
+wordpress
+vinlic/step-free-api
+ghcr.io/aurora-develop/aurora
+jxxghp/moviepilot
+nodered/node-red
+gists/transmission
+jeessy/ddns-go
+mysql
+johngong/calibre-web
+6053537/portainer-ce
+nastool/nas-tools
