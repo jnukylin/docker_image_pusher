@@ -25,3 +25,4 @@ johngong/calibre-web
 nastool/nas-tools
 --platform linux/arm64 xhofe/alist
 --platform linux/amd64 xhofe/alist
+xiaoyaliu/alist
