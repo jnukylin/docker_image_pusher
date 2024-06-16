@@ -23,3 +23,5 @@ mysql
 johngong/calibre-web
 6053537/portainer-ce
 nastool/nas-tools
+--platform linux/arm64 xhofe/alist
+--platform linux/amd64 xhofe/alist
